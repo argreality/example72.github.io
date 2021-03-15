@@ -1,0 +1,11 @@
+Model Information:
+* title:	FC85-R49
+* source:	https://sketchfab.com/3d-models/fc85-r49-53ac8960d44d42a0812c9023f3b22e4e
+* author:	Interiors3D (https://sketchfab.com/Interiors3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FC85-R49" (https://sketchfab.com/3d-models/fc85-r49-53ac8960d44d42a0812c9023f3b22e4e) by Interiors3D (https://sketchfab.com/Interiors3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
